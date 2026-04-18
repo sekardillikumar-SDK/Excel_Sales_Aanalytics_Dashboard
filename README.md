@@ -63,6 +63,13 @@ The Excel dashboard provides the following analytics:
 - Monthly Sales Trend
 - Daily Sales
 
+
+# 📷 Dashboard Preview
+
+## Sales Analytics Dashboard
+
+![Dashboard](image/Sales_Analytics_Dashboard.png)
+
 ### Business Insights
 
 - Identify the most profitable product categories
@@ -81,7 +88,7 @@ excel-sales-analytics-project
 │ └── Sales_Analytics_Dashboard.xlsx
 │
 ├── images
-│ └── dashboard_preview.png
+│ └── Sales_Analytics_Dashboard.png
 │
 └── README.md
 
@@ -98,4 +105,4 @@ excel-sales-analytics-project
 ## Author
 
 This project is part of my **Data Analytics Portfolio** demonstrating Excel-based business intelligence and reporting skills.
-# Excel_Sales_Analytics_DAshboard
+
