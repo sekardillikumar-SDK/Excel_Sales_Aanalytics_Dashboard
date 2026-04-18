@@ -68,7 +68,7 @@ The Excel dashboard provides the following analytics:
 
 ## Sales_Analytics_Dashboard
 
-![Dashboard](image/Sales_Analytics_Dashboard.png)
+![Dashboard](Image/Sales_Analytics_Dashboard.png)
 
 ### Business Insights
 
