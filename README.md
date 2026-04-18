@@ -66,7 +66,7 @@ The Excel dashboard provides the following analytics:
 
 # 📷 Dashboard Preview
 
-## Sales Analytics Dashboard
+## Sales_Analytics_Dashboard
 
 ![Dashboard](image/Sales_Analytics_Dashboard.png)
 
